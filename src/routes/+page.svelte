@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>Service Unavailable - Homeflix</title>
+	<meta name="description" content="Homeflix is currently unavailable. Please check back soon." />
+</svelte:head>
+
 <main>
 	<div class="maintenance-container">
 		<img src="/logo.png" alt="Homeflix Logo" class="logo" />
